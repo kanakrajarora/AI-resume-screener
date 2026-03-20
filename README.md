@@ -5,6 +5,8 @@ This project is an AI-powered resume screening system designed to automate candi
 
 The system acts as a lightweight Applicant Tracking System (ATS) to improve hiring efficiency and decision-making.
 
+Demo Video: https://drive.google.com/file/d/1CQMlIZc_EVjDzvtSG2qNUnF7wlJZMMq0/view?usp=sharing
+
 ---
 
 ## Problem Statement
